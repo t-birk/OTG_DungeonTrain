@@ -72,3 +72,11 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+*.bin
+OTG_DungeonTrain_Source/Saved/AutoScreenshot.png
+OTG_DungeonTrain_Source/Saved/Config/CrashReportClient/UECC-Windows-CEB0A5F741CE983C2455CB8C8E0C080F/CrashReportClient.ini
+OTG_DungeonTrain_Source/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+OTG_DungeonTrain_Source/Saved/Logs/OTG_DungeonTrain-backup-2025.02.25-18.02.39.log
+OTG_DungeonTrain_Source/Saved/Logs/OTG_DungeonTrain.log
+OTG_DungeonTrain_Source/Saved/SourceControl/UncontrolledChangelists.json
+OTG_DungeonTrain_Source/Saved/Telemetry/Telemetry.json
