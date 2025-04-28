@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\parke\\onedrive\\documents\\github\\otg_dungeontrain\\otg_dungeontrain_source\\intermediate\\source\\otg_dungeontrain.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\parke\\onedrive\\documents\\github\\otg_dungeontrain\\otg_dungeontrain_source\\intermediate\\build\\win64\\x64\\otg_dungeontrain\\development\\core\\sharedpch.core.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\parke\\onedrive\\documents\\github\\otg_dungeontrain\\otg_dungeontrain_source\\intermediate\\build\\win64\\x64\\unrealgame\\development\\otg_dungeontrain\\definitions.otg_dungeontrain.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
