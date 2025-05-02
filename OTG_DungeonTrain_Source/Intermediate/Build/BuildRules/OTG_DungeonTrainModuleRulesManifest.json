@@ -1,10 +1,10 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\parke\\OneDrive\\Documents\\GitHub\\OTG_DungeonTrain\\OTG_DungeonTrain_Source\\Intermediate\\Source\\OTG_DungeonTrain.Build.cs",
-		"C:\\Users\\parke\\OneDrive\\Documents\\GitHub\\OTG_DungeonTrain\\OTG_DungeonTrain_Source\\Intermediate\\Source\\OTG_DungeonTrain.Target.cs",
-		"C:\\Users\\parke\\OneDrive\\Documents\\GitHub\\OTG_DungeonTrain\\OTG_DungeonTrain_Source\\Intermediate\\Source\\OTG_DungeonTrainClient.Target.cs",
-		"C:\\Users\\parke\\OneDrive\\Documents\\GitHub\\OTG_DungeonTrain\\OTG_DungeonTrain_Source\\Intermediate\\Source\\OTG_DungeonTrainEditor.Target.cs",
-		"C:\\Users\\parke\\OneDrive\\Documents\\GitHub\\OTG_DungeonTrain\\OTG_DungeonTrain_Source\\Intermediate\\Source\\OTG_DungeonTrainServer.Target.cs"
+		"C:\\Users\\thoma\\Documents\\Unreal Projects\\OTG_DungeonTrain\\OTG_DungeonTrain_Source\\Intermediate\\Source\\OTG_DungeonTrain.Build.cs",
+		"C:\\Users\\thoma\\Documents\\Unreal Projects\\OTG_DungeonTrain\\OTG_DungeonTrain_Source\\Intermediate\\Source\\OTG_DungeonTrain.Target.cs",
+		"C:\\Users\\thoma\\Documents\\Unreal Projects\\OTG_DungeonTrain\\OTG_DungeonTrain_Source\\Intermediate\\Source\\OTG_DungeonTrainClient.Target.cs",
+		"C:\\Users\\thoma\\Documents\\Unreal Projects\\OTG_DungeonTrain\\OTG_DungeonTrain_Source\\Intermediate\\Source\\OTG_DungeonTrainEditor.Target.cs",
+		"C:\\Users\\thoma\\Documents\\Unreal Projects\\OTG_DungeonTrain\\OTG_DungeonTrain_Source\\Intermediate\\Source\\OTG_DungeonTrainServer.Target.cs"
 	],
 	"EngineVersion": "5.4.4"
 }

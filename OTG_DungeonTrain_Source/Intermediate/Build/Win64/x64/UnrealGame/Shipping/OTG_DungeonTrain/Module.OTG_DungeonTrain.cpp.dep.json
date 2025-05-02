@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\thoma\\documents\\unreal projects\\otg_dungeontrain\\otg_dungeontrain_source\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\otg_dungeontrain\\module.otg_dungeontrain.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\thoma\\documents\\unreal projects\\otg_dungeontrain\\otg_dungeontrain_source\\intermediate\\build\\win64\\x64\\otg_dungeontrain\\shipping\\core\\sharedpch.core.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\thoma\\documents\\unreal projects\\otg_dungeontrain\\otg_dungeontrain_source\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\otg_dungeontrain\\definitions.otg_dungeontrain.h",
+            "c:\\users\\thoma\\documents\\unreal projects\\otg_dungeontrain\\otg_dungeontrain_source\\intermediate\\source\\otg_dungeontrain.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
