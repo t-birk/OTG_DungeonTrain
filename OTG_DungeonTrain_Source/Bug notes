@@ -1,0 +1,1 @@
+//The reason why the game does not show the Train when loading up the main menu is because the Train Movie File doesn't point to a location in the game directory, it points to one in the C drive, so it doesn't get packaged.
