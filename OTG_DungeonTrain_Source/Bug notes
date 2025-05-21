@@ -1,2 +1,4 @@
 //The reason why the game does not show the Train when loading up the main menu is because the Train Movie File doesn't point to a location in the game directory, it points to one in the C drive, so it doesn't get packaged.
 //When the golem enemy attacks, there is a brief window where if you kill it between the attack coming out and the Golem dies, the attack hit box sticks around forever, as the attack does not run the code destroying it.
+Game over screen does not show up when dieing
+Shopkeep at start that takes red money never has any items for sale. 
